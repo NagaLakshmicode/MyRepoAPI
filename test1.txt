@@ -1,1 +1,17 @@
 hi
+
+C:\ProgramData\Jenkins\.jenkins\secrets\initialAdminPassword
+
+
+Git Hub    Pwd123$pass
+
+
+93958569885b4f55acedcdba86ce3034  Jenkins password
+
+
+Authentication Succeeded
+You may now close this tab and return to the application.
+
+
+Naga Lakshmi
+Asdfg@123
